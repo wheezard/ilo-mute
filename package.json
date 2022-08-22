@@ -22,5 +22,6 @@
   },
   "dependencies": {
     "chalk": "^5.0.1"
-  }
+  },
+  "repository": "https://github.com/wheezard/ilo-mute"
 }
